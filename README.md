@@ -18,7 +18,8 @@ With the introduction of Apple's M1 and M2 chips, there is a growing need to ens
 
 ## Note
 Code taken from https://github.com/seed-labs and modified to run on ARM64.
-
+Copyright by Wenliang Du.
+Refer to https://github.com/seed-lab for updated labs, official documentation, and manuals.
 This project is still in its testing phase. We will be testing this on Ubuntu22 image using VMware fusion player. More details to be updated.
 
 This would primarily be used for CMPSC443 Fall 2023 students for a total of 6 labs. We will update settings/configuration as needed by the end of the semester.
