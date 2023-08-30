@@ -5,7 +5,7 @@ This repository contains a collection of Seed Labs and VMware image of SEEDUbunt
 
 ## Getting Started
 + Download and install VMware Fusion player (free for personal use). https://customerconnect.vmware.com/en/evalcenter?p=fusion-player-personal-13
-+ Download the SeedUbuntu image zip file from : *link to be added *
++ Download the SeedUbuntu image zip file from : https://pennstateoffice365-my.sharepoint.com/:u:/g/personal/njk5270_psu_edu/ESGXJv-Y23lBhNzwozva9e0BEpKxY11Y7hFpL8fvdbjmhA?e=zqrgJm
 + Extract zip file
 + Open the extracted file with VMware Fusion. If it asks whether you copied or moved it, select copied.
 + You should be able to run and log in to the SeddLab virtual machine.
